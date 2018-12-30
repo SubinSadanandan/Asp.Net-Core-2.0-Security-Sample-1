@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_Client", "WebApp_Client\WebApp_Client.csproj", "{81B44BA2-1D70-4D33-9910-3E225083440E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.AspNetCore.IdentityServer", "Test.AspNetCore.IdentityServer\Test.AspNetCore.IdentityServer.csproj", "{744BC071-F026-4CA0-9498-96808E9F33DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.AspNetCore.Auth.Api", "Test.AspNetCore.Auth.Api\Test.AspNetCore.Auth.Api.csproj", "{4C11C34F-346E-40D4-B558-AF39BE17F8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B44BA2-1D70-4D33-9910-3E225083440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B44BA2-1D70-4D33-9910-3E225083440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B44BA2-1D70-4D33-9910-3E225083440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B44BA2-1D70-4D33-9910-3E225083440E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744BC071-F026-4CA0-9498-96808E9F33DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744BC071-F026-4CA0-9498-96808E9F33DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744BC071-F026-4CA0-9498-96808E9F33DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744BC071-F026-4CA0-9498-96808E9F33DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C11C34F-346E-40D4-B558-AF39BE17F8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C11C34F-346E-40D4-B558-AF39BE17F8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C11C34F-346E-40D4-B558-AF39BE17F8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C11C34F-346E-40D4-B558-AF39BE17F8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E72EB64-55F7-4CDB-8A3B-C089B428C78E}
+	EndGlobalSection
+EndGlobal

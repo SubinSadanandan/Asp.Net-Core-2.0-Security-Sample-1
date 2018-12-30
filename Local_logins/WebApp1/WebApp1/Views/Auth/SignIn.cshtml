@@ -1,0 +1,18 @@
+﻿@model WebApp1.Models.SignInModel
+
+@if(!ViewContext.ModelState.IsValid)
+{
+   <div asp-validation-summary="All" class="form-validation"></div>
+}
+
+<form class="form-signin" asp-action="SignIn" asp-route-returnUrl1="@Context.Request.Query["returnUrl"]">
+    <h2>Please SignIn</h2>
+    <label class="sr-only">Username</label>
+
+    <input type="text" class="form-control" placeholder="Username" asp-for="Username" />
+    <label class="sr-only">Password</label>
+    <input type="password" class="form-control" placeholder="Password" asp-for="Password" />
+
+    <button class="btn btn-lg btn-primary btn-block">Sign In</button> 
+
+</form>

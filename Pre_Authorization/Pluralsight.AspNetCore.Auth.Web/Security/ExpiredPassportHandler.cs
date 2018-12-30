@@ -1,0 +1,28 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Pluralsight.AspNetCore.Auth.Web.Services;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Pluralsight.AspNetCore.Auth.Web.Security
+{
+    public class ExpiredPassportHandler:AuthorizationHandler<BorderAccessRequirement>
+    {
+        private IPassportService _passports;
+
+        public ExpiredPassportHandler(IPassportService passports)
+        {
+            _passports = passports;
+        }
+
+        protected override async Task HandleRequirementAsync(AuthorizationHandlerContext context, BorderAccessRequirement requirement)
+        {
+            var passport = await _passports.GetPassportForUserAsync(context.User.Identity.Name);
+            if(passport.ExpiryDate < DateTime.Now.Date.AddMonths(6))
+            {
+                context.Fail();
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.deps.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.dll
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\bin\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.pdb
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.dll
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\Pre_Authorization\Pluralsight.AspNetCore.Auth.Web\obj\Debug\netcoreapp2.0\Pluralsight.AspNetCore.Auth.Web.pdb

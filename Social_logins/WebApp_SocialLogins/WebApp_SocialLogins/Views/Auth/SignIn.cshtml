@@ -1,0 +1,8 @@
+﻿@inject Microsoft.AspNetCore.Authentication.IAuthenticationSchemeProvider schemeProvider
+
+@foreach (var provider in await schemeProvider.GetRequestHandlerSchemesAsync())
+{
+    <a class="btn btn-primary login-button" asp-action="signIn"
+       asp-route-provider="@provider.Name"
+       asp-route-returnurl="@Context.Request.Query["returnUrl"]">@provider.DisplayName</a>
+}

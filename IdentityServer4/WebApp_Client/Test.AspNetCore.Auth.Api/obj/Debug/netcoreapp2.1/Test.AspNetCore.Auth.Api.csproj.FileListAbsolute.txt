@@ -1,0 +1,14 @@
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\bin\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.deps.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\bin\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\bin\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\bin\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.dll
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.RazorAssemblyInfo.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.RazorAssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.RazorTargetAssemblyInfo.cache
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\bin\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.pdb
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.dll
+D:\Subin\Tech\Asp.Net Core\Security\Dec_2018\IdentityServer4\WebApp_Client\Test.AspNetCore.Auth.Api\obj\Debug\netcoreapp2.1\Test.AspNetCore.Auth.Api.pdb
